@@ -4,25 +4,30 @@
 Projetos feitos na universidade com a proposta de introduzir a lógica de programação usando a linguagem de programação Java.
 </p>
 
+<br/>
 
-# Estrutura
+## Estrutura
+<p>Os projetos foram desenvolvidos na seguinte ordem:</p>
+<ol>
+<li>Introdução ao Java; </li>
+<li>Lista de exercícios 1; </li>
+<li>Lista de exercícios 2; </li>
+<li>Introdução aos Métodos; </li>
+<li>Lista de exercícios 3; </li>
+<li>Desafio final; </li>
+</ol>
 
-Os projetos foram desenvolvidos na seguinte ordem:
+<br/>
 
-1. Introdução ao Java;
-2. Lista de exercícios 1;
-3. Lista de exercícios 2;
-4. Introdução aos Métodos;
-5. Lista de exercícios 3;
-6. Desafio final;
+## Conceitos
 
-# Conceitos
-
-Para uso e entendimento da linguagem Java, foram abordados e estudados os seguintes conceitos:
-- Origem                      
-- Suas características       
-- JDK, JVM e JRE             
-- Como eles interagem?
-- Tipos primitivos de dados   
-- O que é uma IDE?            
-- Eclipse o que é? Vantagens?
+<p>Para uso e entendimento da linguagem Java, foram abordados e estudados os seguintes conceitos:</p>
+<ul>
+<li>Origem </li>                      
+<li>Suas características </li>       
+<li>JDK, JVM e JRE </li>             
+<li>Como eles interagem? </li>
+<li>Tipos primitivos de dados </li>   
+<li>O que é uma IDE? </li>            
+<li>Eclipse o que é? Vantagens? </li>
+</ul>

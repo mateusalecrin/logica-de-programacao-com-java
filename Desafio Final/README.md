@@ -1,18 +1,24 @@
-## Getting Started
+<h1 align="center">Desafio Final</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center"> Aqui aplicamos todo o conhecimento adquirido durante a trilha de introdução a lógica de programação. Claro, se fizer necessário o uso de determinados recursos. Para maior fixação do conteúdo foi solicitado que esboçássemos o código em papel, antes de escrevê-lo na IDE. E assim o foi feito.   
+</p>
 
-## Folder Structure
+<br/>
 
-The workspace contains two folders by default, where:
+## Exercícios
+<ol>
+<li>Programa simulando o conhecido Jogo da Velha.</li>
+</ol>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<br/>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Conceitos abordados nesta trilha: 
+<ul>
+<li> Estruturas de armazenagem (Vetor e matriz); </li>
+<li> Estruturas condicionais (If / else, switch / case); </li>
+<li> Estruturas de repitição (For, while, do while); </li>
+<li> O método parseInt(); </li>
+<li> O método equals(); </li>
+<li> A classe JOptionPane; </li>
+<li> A classe DecimalFormat; </li>
+</ul> 
